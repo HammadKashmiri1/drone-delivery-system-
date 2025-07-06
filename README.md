@@ -94,7 +94,7 @@ The **Drone Delivery System** is an enterprise-level desktop application designe
 
 | Login | Dashboard | Drone Management | Orders | Analytics |
 |-------|-----------|------------------|--------|-----------|
-| ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/2c9fd0de380543e2482dfeec20d95e20fe4e51f2/Screenshot%202025-07-06%20064625.png) | ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/4e40eb7d00d0c1ff550c36fb237a0a3b4fe05b0e/Screenshot%202025-07-06%20064828.png) | ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/8fb1e93d0b1f713b44b14b3af0eff42eacd4ef0f/Screenshot%202025-07-06%20064855.png) | ![](screenshots/orders.png) | ![](screenshots/analytics.png) |
+| ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/2c9fd0de380543e2482dfeec20d95e20fe4e51f2/Screenshot%202025-07-06%20064625.png) | ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/4e40eb7d00d0c1ff550c36fb237a0a3b4fe05b0e/Screenshot%202025-07-06%20064828.png) | ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/8fb1e93d0b1f713b44b14b3af0eff42eacd4ef0f/Screenshot%202025-07-06%20064855.png) | ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/c16a6940fd554cd09dd59cd907ca4d02aca272d6/Screenshot%202025-07-06%20064927.png) | ![](screenshots/analytics.png) |
 
 ---
 
