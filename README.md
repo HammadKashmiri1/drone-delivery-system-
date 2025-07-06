@@ -29,12 +29,6 @@ The **Drone Delivery System** is an enterprise-level desktop application designe
 ✅ **Design Patterns** — Factory, Observer, Command, Singleton, Builder for modularity and maintainability.
 
 ---
-#  Screenshoots
-
-
-
-
-
 
 ## 🧩 Tech Stack
 
@@ -100,7 +94,7 @@ The **Drone Delivery System** is an enterprise-level desktop application designe
 
 | Login | Dashboard | Drone Management | Orders | Analytics |
 |-------|-----------|------------------|--------|-----------|
-| ![](screenshots/login.png) | ![](screenshots/dashboard.png) | ![](screenshots/drones.png) | ![](screenshots/orders.png) | ![](screenshots/analytics.png) |
+| ![](https://github.com/HammadKashmiri1/drone-delivery-system-/blob/2c9fd0de380543e2482dfeec20d95e20fe4e51f2/Screenshot%202025-07-06%20064625.png) | ![](screenshots/dashboard.png) | ![](screenshots/drones.png) | ![](screenshots/orders.png) | ![](screenshots/analytics.png) |
 
 ---
 
